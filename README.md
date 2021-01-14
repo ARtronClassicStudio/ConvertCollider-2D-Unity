@@ -1,4 +1,4 @@
-# ConvertCollider-2D
+# ConvertCollider-2D Unity
 
 ENGLISH:
 
