@@ -13,7 +13,7 @@ Installation:
 
 Enjoy your use! :)
 
-Video documentation:
+Plugin overview in English : 
 
 
 RUSSIAN:
