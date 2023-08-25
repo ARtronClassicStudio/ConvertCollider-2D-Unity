@@ -15,7 +15,7 @@ Enjoy your use! :)
 
 Plugin overview in English : https://youtu.be/VJ_BhoQDtAY
 
-# Warrning!
+# Warning!
 
 This package has been deprecated, please start using the [new package](https://github.com/ARtronClassicStudio/EPConvert/tree/main).
 
